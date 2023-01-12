@@ -1,1 +1,2 @@
-https://downloads.khinsider.com/game-soundtracks/album/persona-4-dancing-all-night
+https://downloads.khinsider.com/game-soundtracks/album/front-mission-alternative
+$ python3 downloader py
